@@ -1,8 +1,0 @@
-links de ejercicios de olimpiadas de geometria:
-     https://gogeometry.com/#google_vignette
-links grupales:
-    1.-   https://www.geogebra.org/m/nehjk9cx
-    2.-   https://www.geogebra.org/m/stmq3anh
-    3.-   https://create.kahoot.it/details/circunferencia/3c7b8ee3-b59e-48db-8881-cbe79ca60ca5
-    4.-   https://www.geogebra.org/m/vzfu2csf
-    5.-   https://wordwall.net/es/resource/17477948/elementos-de-la-circunferencia
